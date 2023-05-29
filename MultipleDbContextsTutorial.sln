@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleDbContextsTutorial", "MultipleDbContextsTutorial\MultipleDbContextsTutorial.csproj", "{E5230E94-AB89-4C14-A2F9-4DA68BD24D67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5230E94-AB89-4C14-A2F9-4DA68BD24D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5230E94-AB89-4C14-A2F9-4DA68BD24D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5230E94-AB89-4C14-A2F9-4DA68BD24D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5230E94-AB89-4C14-A2F9-4DA68BD24D67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAFBF683-6449-4495-92E4-9753724A1850}
+	EndGlobalSection
+EndGlobal
